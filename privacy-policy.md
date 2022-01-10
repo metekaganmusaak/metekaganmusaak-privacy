@@ -43,7 +43,7 @@ I want to inform users of this Service that these third parties have access to t
 **Security**
 
 I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
-sodoit: todo app need to access your camera, file and microphone. This is because; sodoit: todo needs camera permission so you can capture photos and add it in your todos. sodoit: todo needs file access so you can import files into your todos. sodoit: todo needs microphone access so you can record sounds and add it into your todos.
+sodoit: todo app need to access your camera, file and microphone access permissions. This is because; sodoit: todo needs camera permission so you can capture photos and add it in your todos. sodoit: todo needs file access so you can import files into your todos. sodoit: todo needs microphone access so you can record sounds and add it into your todos. sodoit: todo is using your own device's storage to store datas. sodoit: todo need to access your files to write and read your todos.
 
 **Links to Other Sites**
 
